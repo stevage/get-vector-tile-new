@@ -3,8 +3,7 @@
   "version": "0.0.2",
   "description": "Fetch a single vector tile",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -14,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stevage/get-vector-tile"
+    "url": "git+https://github.com/stevage/get-vector-tile.git"
   }
 }
